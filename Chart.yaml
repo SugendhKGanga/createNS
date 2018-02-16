@@ -1,0 +1,11 @@
+name: create namespace
+version: 1.0.0
+appVersion: 1.0.0
+description: Create namespace
+keywords:
+- namespace
+maintainers:
+- name: compleatang
+  email: devops@happiestminds.com
+sources:
+- https://github.com/HM-demo/ns

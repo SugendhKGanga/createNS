@@ -1,0 +1,3 @@
+To verify that {{ .Values.namespace }} has created, run:
+
+  kubectl get ns {{ .Values.namespace }} -o yaml
